@@ -1,5 +1,5 @@
 const Home = () => {
-  console.log("I am a server component");
+ 
 
   return (
     <div>
